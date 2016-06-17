@@ -18,7 +18,7 @@
          <a class="navbar-brand" href="Default.aspx"><img height="47" width="47" src="../Assests/images/LOGO.png" id="logo" runat="server" /></a>
          <a class="navbar-brand" href="Default.aspx"><h3>AM Gamer</h3></a>
 
-        </div>>
+        </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
